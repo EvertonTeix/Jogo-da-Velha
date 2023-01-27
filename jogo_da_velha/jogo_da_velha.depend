@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1674608628 source:c:\users\tteve\onedrive\Área de trabalho\estudando c\vetor\jogo_da_velha\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1674686937 source:c:\users\tteve\onedrive\Área de trabalho\estudando c\jogo da velha\jogo_da_velha\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
